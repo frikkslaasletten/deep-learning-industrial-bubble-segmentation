@@ -1,0 +1,17 @@
+# Python venv
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Mac
+.DS_Store
+
+# ML outputs
+runs/
+checkpoints/
+data/frames/
+data/masks/
+data/labels/
+data/yolo/
